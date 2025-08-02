@@ -1,0 +1,41 @@
+﻿OrderID,CustomerID,OrderDate,OrderStatus,ShipDate,PaymentType
+5001,1001,1/10/2025,Completed,1/15/2025,Credit Card
+5002,1002,1/12/2025,Cancelled,,Cash
+5003,1003,2/5/2025,Completed,2/7/2025,Online Wallet
+5004,1004,2/10/2025,Pending,,Net Banking
+5005,1005,2/12/2025,Completed,2/14/2025,Credit Card
+5006,1006,2/15/2025,Returned,2/20/2025,Cash
+5007,1007,2/18/2025,Completed,2/22/2025,Credit Card
+5008,1008,2/19/2025,Completed,2/25/2025,Online Wallet
+5009,1009,2/20/2025,Pending,,Net Banking
+5010,1010,2/21/2025,Completed,2/26/2025,Credit Card
+5011,1011,3/1/2025,Completed,3/5/2025,Credit Card
+5012,1012,3/3/2025,Completed,3/7/2025,Cash
+5013,1013,3/5/2025,Returned,3/10/2025,Online Wallet
+5014,1014,3/7/2025,Pending,,Net Banking
+5015,1015,3/10/2025,Completed,3/15/2025,Credit Card
+5016,1016,3/12/2025,Cancelled,,Cash
+5017,1017,3/13/2025,Completed,3/17/2025,Credit Card
+5018,1018,3/15/2025,Completed,3/19/2025,Online Wallet
+5019,1019,3/17/2025,Pending,,Net Banking
+5020,1020,3/19/2025,Completed,3/24/2025,Credit Card
+5021,1021,4/1/2025,Completed,4/6/2025,Credit Card
+5022,1022,4/2/2025,Pending,,Cash
+5023,1023,4/4/2025,Completed,4/8/2025,Online Wallet
+5024,1024,4/6/2025,Cancelled,,Net Banking
+5025,1025,4/7/2025,Completed,4/12/2025,Credit Card
+5026,1026,4/8/2025,Completed,4/14/2025,Cash
+5027,1027,4/9/2025,Returned,4/16/2025,Credit Card
+5028,1028,4/10/2025,Completed,4/15/2025,Online Wallet
+5029,1029,4/11/2025,Pending,,Net Banking
+5030,1030,4/13/2025,Completed,4/18/2025,Credit Card
+5031,1031,4/14/2025,Completed,4/20/2025,Cash
+5032,1032,4/15/2025,Cancelled,,Online Wallet
+5033,1033,4/16/2025,Completed,4/21/2025,Net Banking
+5034,1034,4/17/2025,Returned,4/23/2025,Credit Card
+5035,1035,4/18/2025,Completed,4/22/2025,Cash
+5036,1036,4/19/2025,Completed,4/24/2025,Credit Card
+5037,1037,4/20/2025,Pending,,Online Wallet
+5038,1038,4/21/2025,Completed,4/26/2025,Net Banking
+5039,1039,4/22/2025,Completed,4/27/2025,Credit Card
+5040,1040,4/23/2025,Completed,4/28/2025,Cash

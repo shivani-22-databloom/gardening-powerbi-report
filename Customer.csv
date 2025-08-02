@@ -1,0 +1,41 @@
+﻿CustomerID,CustomerName,CustomerType,Region,JoinDate,Email,CountryID
+1001,Green Thumb,Retail,North,1/15/2020,greenthumb@example.com,1
+1002,GardenPro,Contractor,SouthWest,5/23/2021,,4
+1003,Plant Lovers,Retail,NorthEast,11/11/2019,plantlovers@domain.com,2
+1004,Lawn Experts,Wholesale,West,6/30/2018,lawnexperts@domain.com,3
+1005,Flower Fanatics,Retail,North,3/19/2022,fanatics@example.com,1
+1006,Soil Savvy,Contractor,South,8/10/2020,soilsavvy@domain.com,3
+1007,Pots R Us,Wholesale,East,12/1/2017,potsrus@domain.com,2
+1008,Garden Fresh,Retail,SouthWest,11/22/2021,gardenfresh@example.com,1
+1009,Backyard Lovers,Retail,NorthEast,2/28/2023,backyardlovers@domain.com,3
+1010,Green Gardens,Contractor,West,1/5/2024,greengardens@domain.com,4
+1011,Urban Growers,Retail,East,9/10/2018,urbangrowers@example.com,2
+1012,Flower World,Wholesale,NorthWest,4/5/2019,flowerworld@domain.com,1
+1013,Garden Helpers,Contractor,SouthEast,7/14/2020,gardenhelpers@domain.com,1
+1014,Fresh Sprouts,Retail,West,1/20/2022,freshsprouts@domain.com,2
+1015,Seed Masters,Wholesale,North,3/17/2021,seedmasters@domain.com,3
+1016,Lawn Legends,Contractor,SouthWest,6/12/2023,lawnlegends@domain.com,4
+1017,Pottery Place,Retail,East,10/29/2020,potteryplace@example.com,2
+1018,Sprout Co,Wholesale,NorthEast,11/3/2017,sproutco@domain.com,3
+1019,Nature’s Best,Retail,West,2/15/2024,naturesbest@domain.com,4
+1020,Green Horizon,Contractor,South,12/5/2023,greenhorizon@domain.com,2
+1021,Plant Pioneers,Retail,NorthEast,5/6/2020,plantpioneers@example.com,3
+1022,Nature’s Way,Contractor,SouthWest,12/12/2018,naturesway@domain.com,4
+1023,Gardeners Guild,Wholesale,West,7/21/2019,gardenersguild@domain.com,2
+1024,Blossom Boutique,Retail,East,4/18/2021,blossomboutique@example.com,3
+1025,Earthy Essentials,Retail,North,9/9/2017,earthyessentials@domain.com,1
+1026,The Seed Bank,Wholesale,SouthEast,1/1/2023,seedbank@domain.com,2
+1027,The Lawn People,Contractor,NorthWest,3/30/2018,lawnpeople@domain.com,1
+1028,Garden Glow,Retail,West,8/11/2022,gardenglow@example.com,2
+1029,Nature Nook,Retail,South,10/25/2020,naturenook@domain.com,3
+1030,Sprout Solutions,Wholesale,East,3/17/2024,sproutsolutions@domain.com,4
+1031,Bloom Bazaar,Retail,NorthEast,2/27/2019,bloombazaar@example.com,4
+1032,Green Horizons,Contractor,SouthWest,7/3/2021,greenhorizons@domain.com,2
+1033,Fertile Fields,Wholesale,North,11/19/2017,fertilefields@domain.com,3
+1034,Plant Pathways,Retail,West,5/22/2023,plantpathways@example.com,4
+1035,The Garden Shed,Contractor,East,6/15/2018,gardenshed@domain.com,2
+1036,Blossom Buddies,Retail,SouthEast,10/7/2019,blossombuddies@domain.com,3
+1037,Seedling Supply,Wholesale,NorthWest,1/11/2020,seedlingsupply@domain.com,2
+1038,Green Thumb Club,Retail,North,4/28/2022,greenthumbclub@example.com,1
+1039,Pot & Planter Pros,Contractor,West,7/30/2023,potplanterpros@domain.com,3
+1040,Garden Gurus,Retail,South,6/5/2024,gardengurus@example.com,4

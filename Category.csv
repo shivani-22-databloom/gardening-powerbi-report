@@ -1,0 +1,41 @@
+﻿CategoryID,CategoryName,ParentCategoryID
+1,Plants,
+2,Gardening Tools,
+3,Flowering Plants,1
+4,Indoor Plants,1
+5,Watering Systems,2
+6,Fertilizers,
+7,Seeds,1
+8,Pots & Planters,2
+9,Outdoor Plants,1
+10,Garden Decor,
+11,Garden Lighting,10
+12,Pest Control,
+13,Garden Furniture,
+14,Compost,6
+15,Bulbs,7
+16,Hydroponics,1
+17,Garden Tools,2
+18,Lawn Care,
+19,Seeds - Flower,7
+20,Garden Pathways,10
+21,Garden Chemicals,12
+22,Garden Maintenance,
+23,Garden Accessories,2
+24,Edible Plants,1
+25,Hanging Baskets,8
+26,Lawn Equipment,18
+27,Garden Safety,2
+28,Water Features,10
+29,Irrigation Pumps,5
+30,Pest Traps,12
+31,Mulches,6
+32,Garden Fabrics,22
+33,Garden Storage,13
+34,Compost Bins,14
+35,Plant Supports,10
+36,Garden Signs,10
+37,Soil Testing Kits,6
+38,Garden Seeds - Herbs,7
+39,Garden Sprayers,12
+40,Gardening Books,
