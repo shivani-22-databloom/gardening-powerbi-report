@@ -1,0 +1,41 @@
+﻿SubCategoryID,SubCategoryName,CategoryID,IsActive
+101,Roses,3,TRUE
+102,Tulips,3,FALSE
+103,Succulents,4,TRUE
+104,Drip Irrigation,5,TRUE
+105,Sprinklers,5,TRUE
+106,Organic Fertilizer,6,TRUE
+107,Vegetable Seeds,7,TRUE
+108,Ceramic Pots,8,TRUE
+109,Bonsai,4,TRUE
+110,Garden Statues,10,FALSE
+111,Solar Lights,11,TRUE
+112,Chemical Pesticides,12,TRUE
+113,Wooden Benches,13,TRUE
+114,Leaf Compost,14,FALSE
+115,Tulip Bulbs,15,TRUE
+116,NFT Systems,16,TRUE
+117,Hand Trowels,17,TRUE
+118,Lawn Fertilizer,18,TRUE
+119,Sunflower Seeds,19,TRUE
+120,Stone Path Slabs,20,TRUE
+121,Herbicides,21,TRUE
+122,Lawn Mowers,26,TRUE
+123,Garden Gloves,27,TRUE
+124,Pond Pumps,28,TRUE
+125,Garden Hoses,29,TRUE
+126,Rodent Traps,30,FALSE
+127,Wood Mulch,31,TRUE
+128,Weed Barriers,32,TRUE
+129,Garden Sheds,33,TRUE
+130,Compost Tumblers,34,TRUE
+131,Tomato Supports,35,TRUE
+132,Metal Signs,36,FALSE
+133,Soil pH Kits,37,TRUE
+134,Basil Seeds,38,TRUE
+135,Backpack Sprayers,39,TRUE
+136,Pruning Shears,23,TRUE
+137,Gardening Magazines,40,TRUE
+138,Leaf Blowers,22,TRUE
+139,Seed Starters,7,TRUE
+140,Garden Kneelers,23,TRUE
